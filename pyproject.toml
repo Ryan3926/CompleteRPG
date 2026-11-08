@@ -1,0 +1,6 @@
+[project]
+name = "shadows-of-eldoria"
+version = "0.1.0"
+description = "A terminal-based fantasy RPG class project"
+requires-python = ">=3.10"
+dependencies = ["colorama", "tinydb"]
